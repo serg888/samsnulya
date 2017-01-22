@@ -1,0 +1,11 @@
+.exceed{
+    color: red;
+}
+.notexceed{
+    color: green;
+}
+table,tr,th,td{
+    border: 1px solid gray;
+    padding: 2px;
+    border-collapse: collapse;
+}
